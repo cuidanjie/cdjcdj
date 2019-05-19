@@ -1,0 +1,214 @@
+.page1{
+    background: url('image/b.png') no-repeat;
+    background-size: cover;
+}
+.page2{
+    background: url('image/111.jpg')
+}
+
+.page2 img{
+    position: absolute;
+}
+
+.page2 p{
+    color: burlywood;
+    font-size: 80px;
+    font-family: 'Courier New', Courier, monospace;
+
+
+}
+    
+
+
+.page2 img:nth-of-type(1){
+    width: 3rem;
+    height: 3.3rem;
+    left: 0;
+    top: 0;
+}
+
+.page2 img:nth-of-type(2){
+    width: 6rem;
+    height: 6rem;
+    left: 1rem;
+    bottom: 0.3rem;
+}
+
+.page2 img:nth-of-type(3){
+    width: 4.34rem;
+    height: 4.34rem;
+    right: 0;
+    top:.4rem;
+}
+
+.page2 img:nth-of-type(4){
+    width: 4rem;
+    height: 4rem;
+    left: 3rem;
+    bottom: 4.5rem;
+}
+
+.page3{
+    background: url('image/11.jpg')
+}
+
+.page3 img{
+    position: absolute;
+}
+
+.page3 img:nth-of-type(1){
+    width: 3rem;
+    height: 4rem;
+    left: 0;
+    top: 0;
+}
+
+.page3 img:nth-of-type(2){
+    width: 4.5rem;
+    height: 6rem;
+    left: 2.5rem;
+    bottom: 0.3rem;
+}
+
+.page3 img:nth-of-type(3){
+    width: 4rem;
+    height: 5rem;
+    right: .2rem;
+    top:.4rem;
+}
+
+.page3 img:nth-of-type(4){
+    width: 3.5rem;
+    height: 4.7rem;
+    left: 0.3rem;
+    bottom: 3.5rem;
+}
+
+.page4{
+    background: url('image/555.jpg')
+}
+
+.page4 img{
+    position: absolute;
+}
+.page4 p{
+    color: rgba(107, 49, 214, 0.438);
+    font-size: 80px;
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+
+}
+    
+.page4 img:nth-of-type(1){
+    width: 4rem;
+    height: 5.3rem;
+    left: .5rem;
+    top: .5rem;
+}
+
+.page4 img:nth-of-type(2){
+    width: 4.5rem;
+    height: 6rem;
+    left: 2.5rem;
+    bottom: 3rem;
+}
+
+.page5{
+    background: url('image/666.jpg')
+}
+
+.page5 img{
+    position: absolute;
+}
+
+.page5 img:nth-of-type(1){
+    width: 4rem;
+    height: 5.3rem;
+    left: .5rem;
+    top: .5rem;
+}
+
+.page5 img:nth-of-type(2){
+    width: 4.5rem;
+    height: 6rem;
+    left: 2.5rem;
+    bottom: 3rem;
+}
+
+.page6{
+    background: url('image/22.jpg')
+}
+
+.page6 img{
+    position: absolute;
+}
+
+.page6 img:nth-of-type(1){
+    width: 3rem;
+    height: 4rem;
+    left: .1rem;
+    top: 4rem;
+}
+
+.page6 img:nth-of-type(2){
+    width: 4.5rem;
+    height: 6rem;
+    left: 2.8rem;
+    bottom: 0.5rem;
+}
+
+.page6 img:nth-of-type(3){
+    width: 3.8rem;
+    height: 5rem;
+    right: .2rem;
+    top:.4rem;
+}
+
+.page7{
+    background: url('image/999.jpg')
+}
+
+.page7 img{
+    position: absolute;
+}
+
+.page7 img:nth-of-type(1){
+    width: 4rem;
+    height: 5.3rem;
+    left: .5rem;
+    top: .5rem;
+}
+
+.page7 img:nth-of-type(2){
+    width: 4.5rem;
+    height: 6rem;
+    left: 2.5rem;
+    bottom: 3rem;
+}
+
+.page8{
+    background: url('image/888.jpg')
+}
+
+.page8 img{
+    position: absolute;
+}
+
+.page8 img:nth-of-type(1){
+    width: 4rem;
+    height: 5.3rem;
+    left: 1.8rem;
+    top: .5rem;
+}
+
+.page8 img:nth-of-type(2){
+    width: 4.5rem;
+    height: 6rem;
+    left: 1.6rem;
+    bottom: 1.5rem;
+}
+
+.page9{
+    background: url('image/a.jpg') no-repeat;
+    background-size: cover;
+}
